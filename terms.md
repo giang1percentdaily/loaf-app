@@ -10,8 +10,9 @@ Loaf blocks the apps you choose, for the length of time you choose, using Apple'
 
 ## Loaf Pro
 
-Loaf offers two optional purchases:
+Loaf offers three optional purchases:
 
+- **One month**: an auto-renewing subscription. Payment is charged to your Apple Account at confirmation of purchase. It renews automatically each month unless you cancel at least 24 hours before the end of the current period. You can manage or cancel it in your Apple Account settings.
 - **One year**: an auto-renewing subscription. Payment is charged to your Apple Account at confirmation of purchase. It renews automatically each year unless you cancel at least 24 hours before the end of the current period. You can manage or cancel it in your Apple Account settings.
 - **Yours for good**: a one-time purchase with no renewal.
 
